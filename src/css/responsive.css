@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 45px 0px;
+}
+
+.bg-image {
+    width: 335px;
+    height: 432px;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0px 0px 14px 22px;
+}
+
+.rome {
+    background: url(../images/01.png);
+}
+
+.boat-at-sea {
+    background: url(../images/02.png);
+}
+
+.sand-and-sea {
+    background: url(../images/03.png);
+}
+
+.starry-night {
+    background: url(../images/04.png);
+}
+
